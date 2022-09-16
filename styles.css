@@ -20,6 +20,9 @@
   opacity: 0.5;
   top: calc(50% - 25px);
   left: calc(50% - 100px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 .image-button:hover {
   opacity: 1;
